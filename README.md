@@ -28,12 +28,19 @@ Este es un proyecto de lista de tareas (To-Do List) hecho en HTML, CSS y JavaScr
 ## 📦 Estructura del proyecto
 
 to-do-list/
+
 │
+
 ├── index.html
+
 ├── css/
+
 │ └── styles.css
+
 ├── js/
+
 │ └── main.js
+
 
 ## 🧪 Cómo usar
 
